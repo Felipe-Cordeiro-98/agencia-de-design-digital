@@ -25,7 +25,7 @@ export default function Rodape(props) {
         <img src={iconeGooglePlus} alt="google plus"/>
       </div>
       <div className='copyright'>
-        <p>Copyright 2022 &copy; <span>Felipe Cordeiro</span></p>
+        <p>Copyright 2024 &copy; <span>Felipe Cordeiro</span></p>
       </div>
     </footer>
   )
